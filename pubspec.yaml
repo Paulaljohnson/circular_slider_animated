@@ -1,7 +1,7 @@
 name: circular_slider_animated
 description: A highly customizable circular slider/progress bar & spinner for Flutter.
 version: 2.0.1
-homepage: https://github.com/matthewfx/sleek-circular-slider
+homepage:  https://github.com/Paulaljohnson/circular_slider_animated.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
